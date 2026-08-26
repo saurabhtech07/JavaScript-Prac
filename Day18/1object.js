@@ -1,9 +1,13 @@
+//Used to store keyed collection & complex entries
+//Object are a collection of properties
+
+
 const student = {
     name: "Saurabh",
     age: 54,
     marks: 87.8
 };
-
+ 
 // const item = {
 //     price: 100.98,
 //     discount: 40,

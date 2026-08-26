@@ -21,6 +21,11 @@
 // }
 
 
+// for (let i = 1; i<=15; i=i+2){
+//     console.log(i);
+// }
+
+
 // console.log("backward");
 
 // for(let i=15; i<=15; i= i-2){
@@ -53,6 +58,14 @@
 // }
 
 
+// for(let i=4; i<=40; i=i+4){
+//     console.log(i);
+// }
+
+
+
+
+
 //  NESTED LOOPS
 
 // for(let i=1; i<=3; i++){
@@ -61,6 +74,9 @@
 //         console.log(j);
 //     }
 // }
+
+
+
  
 
 // WHILE LOOPS
@@ -71,6 +87,46 @@
 //     // i++; 
 //     i= i+2; //for even
 // }
+
+// let i=1;
+// while(i<=20){
+//     console.log(i);
+//     i++;
+// }
+
+
+
+
+
+
+
+// const favMovie = "avatar";
+
+// let guess = prompt("guess my favorite movie");
+
+// while((guess != favMovie) && (guess != "quit")){
+//     guess = prompt("wrong guess. please try again");
+// }
+
+// if(guess == favMovie){
+//     console.log("Congrats!!");
+// }
+
+
+
+
+// const favMovie = "pk";
+
+// let guess = prompt("guess my favorite movie");
+
+
+// while((guess != favMovie) && (guess != "quit")){
+//     guess = prompt("Wrong guess. Please try again ");
+// }
+// if(guess == favMovie){
+//     console.log("Congrats!!");
+// }
+
 
 
 // BREAK CDATASection
@@ -93,6 +149,15 @@
 // }
 
 
+// let fruits = ["mango", "apple", "banana", "litchi", "orange"];
+
+// for(let i=1; i<fruits.length; i+=2){
+//     console.log(i, fruits[i]);
+// }
+
+
+
+
 // let heroes = [
 //     ["ironman", "spiderman", "thor"],
 //     ["superman", "wounder women", "flash"]
@@ -106,6 +171,18 @@
 // }
 
 
+// let heroes = [
+//     ["ironman", "spiderman", "thor"],
+//     ["superman", "wounder women", "flash"]
+// ]
+
+// for (let i=0; i>heroes.length; i++){
+//     console.log(i, heroes[i]);
+//     for(let j=0; i<heroes[i].length; j++){
+//         console.log(`j=${j}, ${heroes[i][j]}`);
+//     }
+// }
+
 // LOOPS WITH NESTED ARRAY
 
 // let student = [["aman", 95], ["shradha", 94.3], ["karan",100]];
@@ -116,6 +193,13 @@
 //         console.log(student[i][j]);
 //     }
 // }
+
+// let students =[["aman", 90], ["shradh", 80], ["karan", 45]];
+
+// for(let i=0; i<students.length; i++){
+//     console.log(info of)
+// }
+
 
 
 
