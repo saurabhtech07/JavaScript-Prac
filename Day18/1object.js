@@ -2,11 +2,10 @@
 //Object are a collection of properties
 
 
-const student = {
-    name: "Saurabh",
-    age: 54,
-    marks: 87.8
-};
+// const student = {
+//     name: "Saurabh",
+//     age: 54,
+//     marks: 87.8
  
 // const item = {
 //     price: 100.98,
@@ -80,4 +79,39 @@ const student = {
 
 // RANDOM NUMBER
 
- 
+let student = {
+    name : "saurabh",
+    age  : 24,
+    marks: 98.4
+};
+
+let student2 = ["saurabh", 24, 98.4];
+
+
+const student3 = {
+    name: "Amit",
+    age: 24,
+    marks: 98.4
+};
+
+
+const item = {
+    price: 100.90,
+    discount: 40,
+    color: ["red", "orange"]
+};
+
+
+const post = {
+    username: "@saurabh",
+    content: "This is my #firstPost",
+    Likes: 140,
+    reposts: 5,
+    tags: ["@alpha", "@team"]
+};
+
+    tags: ["@alpha", "@team"]
+
+};
+
+
