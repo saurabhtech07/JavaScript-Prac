@@ -112,6 +112,4 @@ const post = {
 
     tags: ["@alpha", "@team"]
 
-};
-
 
